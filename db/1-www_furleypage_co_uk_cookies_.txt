@@ -1,0 +1,45 @@
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NSMHG3R"
+height="0" width="0" style="display:none;visibility:hidden"></iframe> 0333 331 9877 Payments Legal services Our people Reviews About us News & Insights Contact us Our culture Search For you & your family Conveyancing and residential property Family law Wills Succession planning and asset protection Probate Contested wills, trusts and probate Elderly and vulnerable client Powers of attorney Court of Protection Trust management French property and estates Personal injury claims Medical and clinical negligence claims Employment law for employees Bankruptcy For business Corporate and commercial Real estate Dispute resolution Civil and commercial mediation Property disputes Employment law for employers Intellectual property rights E-commerce IT and information Insolvency Debt recovery Professional negligence Licensing Specialist sectors Agriculture and rural business Automotive Charities and not-for-profit Dentists Education Equine Food and drink Health and care Hospitality and leisure Manufacturing and distribution About us About Furley Page Our culture Our values History of Furley Page Organisations supported by Furley Page Furley Page Foundation Furley Page Foundation grant making policy Donate to Furley Page Foundation Careers Careers at Furley Page Working at Furley Page Furley Page work place benefits Vacancies Job application form Candidate privacy policy Trainee solicitors Trainee solicitors faqs Summer work placement scheme Summer work placement scheme faqs Home Legal services For you & your family For you & your family Conveyancing and residential property Family law Wills Succession planning and asset protection Probate Contested wills, trusts and probate Elderly and vulnerable client Powers of attorney Court of Protection Trust management French property and estates Personal injury claims Medical and clinical negligence claims Employment law for employees Bankruptcy For business For business Corporate and commercial Real estate Dispute resolution Civil and commercial mediation Property disputes Employment law for employers Intellectual property rights E-commerce IT and information Insolvency Debt recovery Professional negligence Licensing Specialist sectors Specialist sectors Agriculture and rural business Agriculture and rural business Sale and purchase of agriculture and rural property Agriculture tenancies Joint venture development projects Sporting rights over rural property Automotive Charities and not-for-profit Dentists Education Education Employment advice for the education sector Academy conversions Equine Equine Equine agreements Bringing and defending equine claims Food and drink Health and care Hospitality and leisure Manufacturing and distribution Our people Reviews About us About us About us About Furley Page Our culture Our values History of Furley Page Organisations supported by Furley Page Furley Page Foundation Furley Page Foundation grant making policy Donate to Furley Page Foundation Careers Careers Careers at Furley Page Working at Furley Page Furley Page work place benefits Vacancies Job application form Candidate privacy policy Trainee solicitors Trainee solicitors faqs Summer work placement scheme Summer work placement scheme faqs News & Insights Contact us Our culture Call us on 0333 331 9877 Email your enquiry Home / Cookies Cookies What are cookies?
+A cookie is a small piece of data sent from a website and stored in a user’s web browser while they use a website. When the user browses the same website in the future, the data stored in the cookie can be retrieved by the website to notify the website of the user’s previous activity.
+Cookies cannot be programmed or carry viruses, and cannot install malware on the host computer.
+How does Furley Page use cookies?
+The Furley Page website uses cookies to make the browsing experience more efficient, enjoyable and to collect anonymous profile information about users. This information helps Furley Page understand what pages on the website are popular and which pages may need improving.
+This information is only used by the internal team and will not be passed to any third party organisation.
+What cookies does Furley Page collect?
+We have carried out a cookie audit of our website and created the tables below, so that you can view all of the cookies our site uses; their type and their purpose. Name
+Description
+Expiry date _utma (Google)
+This cookie is typically written to the browser upon the first visit to your site from that web browser. If the cookie has been deleted by the browser operator, and the browser subsequently visits your site, a new __utma cookie is written with a different unique ID. This cookie is used to determine unique visitors to your site and it is updated with each page view. Additionally, this cookie is provided with a unique ID that Google Analytics uses to ensure both the validity and accessibility of the cookie as an extra security measure.
+Two years from set/update _utmb (Google)
+This cookie is used to establish and continue a user session with your site. When a user views a page on your site, the Google Analytics code attempts to update this cookie. If it does not find the cookie, a new one is written and a new session is established. Each time a user visits a different page on your site, this cookie is updated to expire in 30 minutes, thus continuing a single session for as long as user activity continues within 30-minute intervals. This cookie expires when a user pauses on a page on your site for longer than 30 minutes. You can modify the default length of a user session with the _setSessionCookieTimeout() method.
+30 mintues from set/update _utmc (Google)
+The Google Analytics tracking for ga.js uses two cookies to establish a session. If either of these two cookies are absent, further activity by the user initiates the start of a new session. See the Session article in the Help Center for a detailed definition and a list of scenarios that end a session. You can customize the length of the default session time using the _setSessionCookieTimeout() method.
+The end of the session _utmz (Google)
+This cookie stores the type of referral used by the visitor to reach your site, whether via a direct method, a referring link, a website search, or a campaign such as an ad or an email link. It is used to calculate search engine traffic, ad campaigns and page navigation within our site. The cookie is updated with each page view.
+Six months from set/update _ga (hotjar.com)
+Google Analytics cookie, used to distinguish users.
+Decided by Google _gat (hotjar.com)
+Google Analytics cookie, Used to throttle request rate.
+Decided by Google __utm* (hotjar.com)
+Google Analytics non-personally identifiable information used for website analytics.
+Decided by Google _hjUserId (hotjar.com)
+Hotjar cookie. This cookie is set as soon as a user loads a page which contains the Hotjar code. The cookie contains a universally unique identifier (UUID) which allows Hotjar to track the same visitor across multiple pages and sessions.
+365 days JSESSIONID (hotjar.com)
+New Relic cookie which is used to monitor session counts for an application.
+The end of the session session (hotjar.com)
+Keeps your website session alive.
+The end of the session How to control and delete cookies
+If you want to restrict or block cookies on the Furley Page website, or other websites you visit, you can do this through your browser settings. The Help function within your browser should tell you how.
+Alternatively, you can visit www.allaboutcookies.org which contains comprehensive information on how to delete cookies from your computer as well as more general information about cookies.
+When did the law change and who enforces it?
+The original EU legislation, now known as the “E-Privacy Directive“ was published in 2003 and implemented as European Directive – 2002/58/EC. In 2009 the Directive was amended by Directive 2009/136/EC that included a requirement to seek consent for cookies and similar technologies.
+The EU Directive entered UK law on 26th May 2011 and is regulated by the Information Commissioner’s Office (ICO) who decided to enforce this legislation from 26th May 2012. More information about the ICO can be found at www.ico.gov.uk BACK TO TOP Careers
+Offices
+Sitemap
+Cookies
+Accessibility
+Complaints
+Payments Legal information LLP
+Terms of website use
+Acceptable use policy
+Privacy policy 0333 331 9877 LinkedIn Twitter YouTube ©Furley Page LLP 2023
